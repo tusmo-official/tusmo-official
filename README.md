@@ -279,31 +279,23 @@ qor(add(12,12));//output: 24
 
 **os**
 
-    - halkee 
-    - u_guur 
-    - itus
-    - abuur_folder
+    - halkee [ pwd ]
+    - u_guur [ cd  ] 
+    - itus   [ ls  ]
+    - abuur_folder 
     - tirtir_* 
     - majiraa
     - fayl_miyaa
     - folder_miyaa
-    - hel_deegaan 
-    - deji_deegaan
-    - fuli
+    - fuli  [execute command ]
     - koobi/nuqul
-    - u_dhaqaaji
+    - u_dhaqaaji [ mv ]
     - aqri_fayl
     - qor_fayl
-    - isku_dar_waddo
+    - isku_dar_waddo [eg: /home/mubaarak  + Desktop -> /home/mubaarak/Desktop 
     - cabbir_fayl
 
-```tusmo
-//test os code
 
-
-
-
-```
 
 ### 🚧 Under Construction!
 
